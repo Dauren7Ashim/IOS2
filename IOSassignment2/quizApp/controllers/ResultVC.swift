@@ -2,7 +2,7 @@
 //  ResultVC.swift
 //  quizApp
 //
-//  Created by Kuanyshbay Ibragim on 27.01.2021.
+//  Created by Ashim Dauren on 27.01.2021.
 //
 
 import UIKit
